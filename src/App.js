@@ -5,7 +5,8 @@ import Shop from "./components/Shop";
 function App() {
   return (
     <Fragment>
-        <Shop />
+      <Shop />
+      <hr />
     </Fragment>
   );
 }
